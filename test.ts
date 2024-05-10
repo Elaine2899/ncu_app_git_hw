@@ -1,4 +1,4 @@
-function add10 (a: string): number {
+function add10 (a: number): number {
   return a += 10;
 }
 
